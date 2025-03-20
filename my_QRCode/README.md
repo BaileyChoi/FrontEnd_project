@@ -4,7 +4,7 @@
 
 ## 배포 주소
 
-> **Vercel** : []()
+> **Vercel** : [(https://qr-code-generator-zeta-navy.vercel.app/)](https://qr-code-generator-zeta-navy.vercel.app/)
 
 ## 개발자
 

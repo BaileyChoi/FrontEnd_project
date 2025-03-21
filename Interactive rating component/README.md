@@ -4,11 +4,11 @@
 
 ## 배포 주소
 
-> **Vercel** : [()
+> **Vercel** : (https://interactive-rating-component-blond-chi.vercel.app/)
 
 ## 실행 이미지
-<img width="400px" src=""/>
-<img width="400px" src=""/>
+<img width="400px" src="https://github.com/user-attachments/assets/7a88002b-89f1-4291-8da0-c9547b7888ef"/>
+<img width="400px" src="https://github.com/user-attachments/assets/b508881b-3694-4208-bef5-3c59c441f33b"/>
 
 ## Development
 

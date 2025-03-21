@@ -7,7 +7,8 @@
 > **Vercel** : [(https://advice-generator-app-hazel-six.vercel.app/)](https://advice-generator-app-hazel-six.vercel.app/)
 
 ## 실행 이미지
-![Image](https://github.com/user-attachments/assets/3e9aa82a-d080-4614-9380-81280d97e539)
+<img width="400px" src="https://github.com/user-attachments/assets/c22765bd-e121-4b9c-b9a6-fe0b8301b54a"/>
+<img width="400px" src="https://github.com/user-attachments/assets/e52f69d7-d6f0-462d-96a3-c9fa155b740c"/>
 
 ## Development
 

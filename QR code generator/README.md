@@ -6,12 +6,9 @@
 
 > **Vercel** : [(https://qr-code-generator-zeta-navy.vercel.app/)](https://qr-code-generator-zeta-navy.vercel.app/)
 
-## 개발자
-
-|                                                            Bailey Choi                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------------: |
-| <img width="160px" src="https://github.com/BaileyChoi/React_EmotionDiary/assets/71368635/416faeb1-f028-4bd5-9678-e08551cba270" /> |
-|                                           [@BaileyChoi](https://github.com/BaileyChoi)                                            |
+## 실행 이미지
+<img width="400px" src="https://github.com/user-attachments/assets/9fd96daf-1bb8-4063-b6f5-ede7f20c6f53"/>
+<img width="400px" src="https://github.com/user-attachments/assets/a30d4c9c-21ce-4b61-a6ab-661b809c791e"/>
 
 ## Development
 

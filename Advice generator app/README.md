@@ -6,12 +6,7 @@
 
 > **Vercel** : [(https://advice-generator-app-hazel-six.vercel.app/)](https://advice-generator-app-hazel-six.vercel.app/)
 
-## 개발자
-
-|                                                            Bailey Choi                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------------: |
-| <img width="160px" src="https://github.com/BaileyChoi/React_EmotionDiary/assets/71368635/416faeb1-f028-4bd5-9678-e08551cba270" /> |
-|                                           [@BaileyChoi](https://github.com/BaileyChoi)                                            |
+## 실행 이미지
 
 ## Development
 
